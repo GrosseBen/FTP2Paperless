@@ -1,6 +1,6 @@
 module github.com/GrosseBen/FTP2Paperless
 
-go 1.23.0
+go 1.23
 
 require github.com/jlaffaye/ftp v0.2.0
 
